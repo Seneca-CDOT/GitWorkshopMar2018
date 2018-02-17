@@ -11,3 +11,5 @@ If you want to attend, you need to follow these steps to let us know to expect y
 Please do this as soon as possible: that way we will know that we have enough room for everyone who wants to attend.
 
 The workshop is intended for Seneca ICT students but everyone is welcome to attend. Just be aware that you'll need to bring your own laptop if you don't have a Seneca account to use lab computers.
+
+If you have any questions, please contact andrew.smith@senecacollege.ca
