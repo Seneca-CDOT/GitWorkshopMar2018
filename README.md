@@ -12,4 +12,4 @@ Please do this as soon as possible: that way we will know that we have enough ro
 
 The workshop is intended for Seneca ICT students but everyone is welcome to attend. Just be aware that you'll need to bring your own laptop if you don't have a Seneca account to use lab computers.
 
-If you have any questions, please contact andrew.smith@senecacollege.ca
+If you have any questions, please contact andrew.smith at senecacollege.ca by email
